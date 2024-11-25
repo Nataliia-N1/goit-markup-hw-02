@@ -82,7 +82,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-/* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
 background-color: #4d5ae5;
 } 
 .herosection-button:hover,
@@ -126,9 +125,8 @@ color: #2e2f42;
 .ourteam-item {
 background-color: #fff;
 }
-/* .ourteam-image {
-background-color: #fff;
-} */
+.ourteam-image {
+} 
 .ourteam-caption {
 font-weight: 500;
 font-size: 20px;
